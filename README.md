@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/vinay-dhami-v1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dhamivinay936@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhamivinay936@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ## 🚀 About Me
